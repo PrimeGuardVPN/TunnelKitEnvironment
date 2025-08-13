@@ -20,8 +20,8 @@ let package = Package(
     ),
     .binaryTarget(
       name: "HevSocks5Tunnel",
-      url: "https://github.com/PrimeGuardVPN/TunnelKitEnvironment/releases/download/1.0.5/HevSocks5Tunnel.xcframework.zip",
-      checksum: "12779bee87068f2faad49a203036bbfd9b9b1a2c59af1dce0cba66fb8b82de19"
+      url: "https://github.com/PrimeGuardVPN/TunnelKitEnvironment/releases/download/1.0.8/HevSocks5Tunnel.xcframework.zip",
+      checksum: "046391856709da14d2be19e64ea1c0a9aff5b3eff82867951679e3f4e64aea17"
     )
   ]
 )
